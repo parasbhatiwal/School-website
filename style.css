@@ -87,6 +87,7 @@ background: url(clock.png) no-repeat;
 background-size: 100%;
 margin: 0 auto;
 position: relative;
+z-index:-1;
 }
 
 #hour {
